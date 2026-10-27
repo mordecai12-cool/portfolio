@@ -15,6 +15,7 @@ Open http://localhost:3200. Publish the contents of `dist/` on any static host.
 - Name: Otiti Mordecai Marvellous
 - Phone: 08106333322 (international: +234 810 633 3322)
 - GitHub: https://github.com/mordecai12-cool
+- Work arrangement: works remotely from home; open to development opportunities, freelance projects and collaborations (supplied by the owner).
 - Selected projects: Marvellous Motors, CampusFlow, Guessing Game, and Go Text Processor.
 - CampusFlow is described as collaborative work; the portfolio does not claim sole authorship.
 - Project summaries reflect the public repository contents reviewed on 27 October 2026.
