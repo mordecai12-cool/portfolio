@@ -29,3 +29,8 @@ The supplied portrait is saved unchanged at `dist/assets/marvellous.jpg`. The pa
 Edit `dist/index.html` for profile and projects, `dist/styles.css` for appearance, and `dist/app.js` for menu, filtering and project details. Contact links use the supplied phone number. No form submissions or visitor data are collected.
 
 Project images: Marvellous Motors uses a screenshot of the public, signed-out site. Other project previews are interface illustrations, clearly labeled. Manrope is included under the SIL Open Font License; see `dist/assets/FONT-LICENSE.txt`.
+
+
+## Background motion
+
+The decorative backdrop uses CSS colour drift and a lightweight canvas of connected particles, plus a small pointer response on devices with a mouse. It runs without third-party libraries. **Pause motion** freezes the effects and remembers the choice in this browser. Reduced-motion system preferences are respected, the animation pauses when the tab is hidden, and mobile uses fewer particles. The content and links remain above the decorative layer.
