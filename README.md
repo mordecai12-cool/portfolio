@@ -20,15 +20,9 @@ Open http://localhost:3200. Publish the contents of `dist/` on any static host.
 - Project summaries reflect the public repository contents reviewed on 27 October 2026.
 - No qualifications, employers, testimonials, live deployment URLs or email addresses have been invented.
 
-## Add her photograph
+## Portrait
 
-Place the approved photo at `dist/assets/marvellous.jpg`, then replace the monogram inside `.portrait-frame` in `dist/index.html` with:
-
-```html
-<img class="portrait-photo" src="assets/marvellous.jpg" alt="Otiti Mordecai Marvellous">
-```
-
-The layout includes styles for this image. The current artwork is an original typographic monogram, not a representation of her appearance.
+The supplied portrait is saved unchanged at `dist/assets/marvellous.jpg`. The page uses responsive CSS framing; no facial features, clothing or appearance were retouched. To replace it later, put the approved replacement at the same path and update its alt text if needed.
 
 ## Editing
 
